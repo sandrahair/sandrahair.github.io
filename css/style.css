@@ -175,10 +175,12 @@ nav {
 }
 
 .hs-p1 h1 {
-  letter-spacing: 6px;
+  font-family: 'Audiowide', cursive;
+  letter-spacing: 2px;
   font-size: 32px;
   margin: 0;
   color: #01014b;
+  padding: 15px 0;
 }
 
 .hs-p2 {
@@ -603,4 +605,9 @@ nav {
   #end-site p {
     font-size: 1.6vw;
   }
+}
+
+#sobre a {
+  text-decoration: none;
+  color: #01014b;
 }
